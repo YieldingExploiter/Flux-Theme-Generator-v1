@@ -176,7 +176,7 @@ ${aData}`);
     '': 'Made Using Fluxus Theme Maker by Yielding#3961',
     'main_grid': WindowAsset.url,
     'top_bar': TopbarAsset.url,
-    'tab_background': `#00000000`//`${await lib.TopbarToAccentColour(Topbar)}77`,
+    'tab_background': `#00000000`, // `${await lib.TopbarToAccentColour(Topbar)}77`,
     '​': 'https://cord.breadhub.cc/'
   };
   const ThemeFile = path.join(ThemesDir, `${FileName}.flux`);
