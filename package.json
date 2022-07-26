@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "discord.js": "^14.0.3",
+    "gm": "^1.23.1"
+  },
+  "devDependencies": {
+    "@norathefurry/eslint-config": "^1.1.2",
+    "@types/gm": "^1.18.12",
+    "axios": "^0.27.2",
+    "eslint": "^8.20.0"
+  },
+  "main": "src/app.ts"
+}
